@@ -1,0 +1,14 @@
+{
+  "Window": {
+    "WindowSize": [ 1000, 600 ],
+    "Version": "0.0.1"
+  },
+  "Keys": {
+    "UP": "Z",
+    "LEFT": "Q",
+    "DOWN": "S",
+    "RIGHT": "D",
+    "JUMP": "SPACE",
+    "DEBUG": "B"
+  }
+}
